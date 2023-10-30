@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 459.88 414.46">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: against-Regular, against;
+        font-size: 209.17px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-3 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 28.69px;
+        letter-spacing: .15em;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="127.72 251.11 459.88 0 133.23 258.23 127.72 251.11 127.72 251.11"/>
+  <text class="cls-2" transform="translate(113.27 259.47)"><tspan x="0" y="0">A</tspan></text>
+  <text/>
+  <circle class="cls-4" cx="198.72" cy="215.74" r="194.22"/>
+  <text class="cls-3" transform="translate(106.49 308.06)"><tspan x="0" y="0">ACE GRAGHICS</tspan></text>
+</svg>
